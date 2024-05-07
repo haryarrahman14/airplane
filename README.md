@@ -7,7 +7,7 @@ This repository contains the code for the project developed during the 'Masterin
 - Seamless UI for booking flights and travel arrangements.
 - Integration with Firebase for real-time data updates.
 - State-of-the-art Cubit state management for robust application architecture.
-- Includes a video simulation of the application and a completion certificate in PDF format.
+- Video simulation of the application : https://youtu.be/LaRurxyhCTs
 
 ## Tech Stack:
 
