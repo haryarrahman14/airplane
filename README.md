@@ -1,16 +1,20 @@
-# airplane
+# Mastering Flutter 2.0: Building Travel and Flight Booking Apps
 
-A new Flutter project.
+This repository contains the code for the project developed during the 'Mastering Flutter 2.0: Building Travel and Flight Booking Apps' course from BuildWithAngga. The project is built using Flutter for cross-platform mobile app development, utilizing Xcode and Firebase for iOS and Android app development. State management is implemented using Cubit for efficient and maintainable code.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Seamless UI for booking flights and travel arrangements.
+- Integration with Firebase for real-time data updates.
+- State-of-the-art Cubit state management for robust application architecture.
+- Includes a video simulation of the application and a completion certificate in PDF format.
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Xcode
+- Firebase
+- Cubit
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Note:
+- This project is for educational purposes and serves as a demonstration of skills acquired during the course.
