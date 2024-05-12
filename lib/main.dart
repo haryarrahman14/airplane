@@ -14,6 +14,7 @@ import 'package:firebase_core/firebase_core.dart';
 import "package:flutter/material.dart";
 import "package:flutter_bloc/flutter_bloc.dart";
 import 'package:flutter_dotenv/flutter_dotenv.dart';
+import 'package:airplane/extension/extension.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -60,6 +61,9 @@ class MyApp extends StatelessWidget {
       ],
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
+        theme: ThemeData(
+          useMaterial3: true,
+        ),
         routes: {
           '/': (context) => const SplashPage(),
           '/get-started': (context) => const GetStartedPage(),
