@@ -18,6 +18,7 @@ class GetStartedPage extends StatelessWidget {
               image: AssetImage(
                 "assets/image-get-started.png",
               ),
+              fit: BoxFit.cover
             )),
           ),
           Center(
